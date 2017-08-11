@@ -120,7 +120,7 @@ Performance characteristics of selected US car models from 1970 to 1982.
 
 **API:** [GitHub](https://github.com/ibm-cds-labs/open-data/blob/master/movies/movies.tsv)
 
-**Format:** [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
+**Format:** [TSV](https://en.wikipedia.org/wiki/Tab-separated_values)
 
 **Database:** none
 
